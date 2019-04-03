@@ -27,3 +27,5 @@ class Obstaculo {
     this.potencia = 0
   }
 }
+
+var UnaVariable = 'aaa'
