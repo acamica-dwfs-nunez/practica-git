@@ -17,3 +17,4 @@ var Obstaculo = function(sprite, x, y, ancho, alto, potencia) {
     this.potencia = 0
   }
 }
+
